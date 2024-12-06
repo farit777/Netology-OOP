@@ -1,4 +1,4 @@
-from classes.classes import Lecturer, Reviewer, Student
+from classes import Lecturer, Reviewer, Student
 
 # Создание экземпляров классов
 lecturer1 = Lecturer("Иван", "Иванов", ["Python", "Git"])
